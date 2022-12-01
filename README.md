@@ -8,7 +8,7 @@ This algorithm is based on natural behaviors of ocean predators in order to find
 
 ![Lévy and Brownian distribution comparison](brown_levy.jpg "Lévy and Brownian distribution comparison")
 
-#### How to customize your own solver: 
+### How to customize your own solver: 
 In order to solve your own optimization function, you need to change some details in the `mpa_java/Variable.java` file:
 * The dimension of the variable: size
 * Constraint 
